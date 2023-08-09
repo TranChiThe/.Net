@@ -1,0 +1,11 @@
+D:\ThucHanh(lab6.3)\TranChiThe_B2003923\TranChiThe_B2003923\bin\Release\TranChiThe_B2003923.exe.config
+D:\ThucHanh(lab6.3)\TranChiThe_B2003923\TranChiThe_B2003923\bin\Release\TranChiThe_B2003923.exe
+D:\ThucHanh(lab6.3)\TranChiThe_B2003923\TranChiThe_B2003923\bin\Release\TranChiThe_B2003923.pdb
+D:\ThucHanh(lab6.3)\TranChiThe_B2003923\TranChiThe_B2003923\obj\Release\TranChiThe_B2003923.DangKy.resources
+D:\ThucHanh(lab6.3)\TranChiThe_B2003923\TranChiThe_B2003923\obj\Release\TranChiThe_B2003923.DangNhap.resources
+D:\ThucHanh(lab6.3)\TranChiThe_B2003923\TranChiThe_B2003923\obj\Release\TranChiThe_B2003923.Properties.Resources.resources
+D:\ThucHanh(lab6.3)\TranChiThe_B2003923\TranChiThe_B2003923\obj\Release\TranChiThe_B2003923.TrangChu.resources
+D:\ThucHanh(lab6.3)\TranChiThe_B2003923\TranChiThe_B2003923\obj\Release\TranChiThe_B2003923.csproj.GenerateResource.cache
+D:\ThucHanh(lab6.3)\TranChiThe_B2003923\TranChiThe_B2003923\obj\Release\TranChiThe_B2003923.csproj.CoreCompileInputs.cache
+D:\ThucHanh(lab6.3)\TranChiThe_B2003923\TranChiThe_B2003923\obj\Release\TranChiThe_B2003923.exe
+D:\ThucHanh(lab6.3)\TranChiThe_B2003923\TranChiThe_B2003923\obj\Release\TranChiThe_B2003923.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranChiThe_B2003923", "TranChiThe_B2003923\TranChiThe_B2003923.csproj", "{78181AEA-B574-4C5C-923C-0C9EC0D1E855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78181AEA-B574-4C5C-923C-0C9EC0D1E855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78181AEA-B574-4C5C-923C-0C9EC0D1E855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78181AEA-B574-4C5C-923C-0C9EC0D1E855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78181AEA-B574-4C5C-923C-0C9EC0D1E855}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C820CC3-2901-47B3-B02B-1F1EF47C5D28}
+	EndGlobalSection
+EndGlobal
